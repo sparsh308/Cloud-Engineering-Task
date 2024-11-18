@@ -4,13 +4,6 @@ This project demonstrates deploying a static web application on AWS EKS (Elastic
 
 ---
 
-## Project Structure
-
-- **terraform/**: Contains Terraform scripts to provision AWS infrastructure.
-- **kubernetes/**: Contains Kubernetes manifests for the application deployment.
-- **prometheus/**: Instructions for setting up Prometheus for monitoring.
-- **Dockerfile**: Dockerfile for containerizing the static web application.
-- **index.html**: Static content for the web application.
 
 ---
 
